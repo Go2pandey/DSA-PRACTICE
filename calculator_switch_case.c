@@ -38,6 +38,7 @@ int main() {
             break;
         default:
             printf("Invalid choice.\n");
+            break;
     }
 
     return 0;
